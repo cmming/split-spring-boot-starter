@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.chmi.springboot.splitspringbootstarter.SplitAutoConfigure,\
+  com.chmi.springboot.splitspringbootstarter.SplitConfig
